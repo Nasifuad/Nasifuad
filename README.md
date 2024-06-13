@@ -1,10 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Nasif Fuad</h1>
 <h3 align="center">A passionate Softer-Tester and QA Engineer from Bangladesh</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nasifuad&label=Profile%20views&color=0e75b6&style=flat" alt="nasifuad" /> </p>
+![IMG_20240606_133923](https://github.com/Nasifuad/Nasifuad/assets/159404665/64696ba8-d9eb-4d29-b1d7-ffb9b84e3bcb)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nasifuad" alt="nasifuad" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nasifuad&label=Profile%20views&color=0e75b6&style=flat" alt="nasifuad" /> </p>
+<p align="left"> <a href="https://github.com/>
+yo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nasifuad" alt="nasifuad" /></a> </p>
 
 - 🔭 I’m currently working on **Automation Testing**
 
