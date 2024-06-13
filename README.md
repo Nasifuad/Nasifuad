@@ -1,7 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Nasif Fuad</h1>
 <h3 align="center">A passionate Softer-Tester and QA Engineer from Bangladesh</h3>
-<img align="center" alt="Coding" width="600px"src="https://ih1.redbubble.net/image.4111534298.7853/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg">
+<p align="center">
+  <img src="https://ih1.redbubble.net/image.4111534298.7853/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg" alt="Coding" width="20%">
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasifuad&label=Profile%20views&color=0e75b6&style=flat" alt="nasifuad" /> </p>
 <p align="left"> <a href="https://github.com/>
