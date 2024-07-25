@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **React JS**
 
-- 👨‍💻 All of my projects are available at [vercel.nasifuad](vercel.nasifuad)
+- 👨‍💻 All of my projects are available at [https://vercel.com/nasifuads-projects](https://vercel.com/nasifuads-projects)
 
 - 📝 I regularly write articles on [medium.com/nasifuad](medium.com/nasifuad)
 
