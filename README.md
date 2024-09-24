@@ -92,58 +92,28 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)
 
-## Design
-
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-<br/>
 
 <hr/>
-<br/>
-
-<br/>
-
-## 💼 Professional Experience
-
-<details>
-    <summary>
-    📂 Click to view my professional experience
-    </summary>
-  <p><strong>Artifusion - Full Stack Developer</strong></p>
-  <ul>
-    <li>✔️ Under Construction of Pokemon Challenge.</li>
-    <li>✔️ Collaborated with a team of designers to implement user-friendly interfaces.</li>
-    <li>✔️ Enhanced product performance, leading to a 25% increase in user engagement.</li>
-  </ul>
-  <p><strong>CodeLab IT Solutions - Frontend Developer</strong></p>
-  <ul>
-    <li>✔️ Designed and developed the City's Election Management System interfaces for web applications.</li>
-    <li>✔️ Improved page load times by 30% through code optimization.</li>
-    <li>✔️ Worked closely with the backend team to integrate APIs efficiently.</li>
-  </ul>
-</details>
-
-
 <br>
 
 ## Coding Activity: 👨‍💻
 
   <p align="center">
       <a href="https://github.com/Nasifuad">
-          <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zeeshanmukhtar1&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true"/>
-          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zeeshanmukhtar1&langs_count=12&layout=compact&langs_count=8&theme=gotham&include_all_commits=true&count_private=true&hide_border=true" />
+          <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nasifuad&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true"/>
+          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nasifuad&langs_count=12&layout=compact&langs_count=8&theme=gotham&include_all_commits=true&count_private=true&hide_border=true" />
       </a>
   </p>
 
  <p align="center">
    <a href="https://github.com/Nasifuad"> 
-     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanmukhtar1&show_icons=true&locale=en&layout=demo&theme=gotham&hide_border=true" /> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nasifuad&show_icons=true&locale=en&layout=demo&theme=gotham&hide_border=true" /> 
    </a>  
  </p>
 
 [![Nasifuad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nasifuad&theme=github-compact&area=true)](https://github.com/Nasifuad/)
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasifuad&show_icons=true&locale=en&layout=compact" alt="nasifuad" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nasifuad&show_icons=true&locale=en&layout=compact" alt="nasifuad" /></p>
 
 
 ## GitHub Contribution Snake 🐍
