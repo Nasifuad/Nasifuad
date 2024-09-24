@@ -137,19 +137,17 @@
 
  <p align="center">
    <a href="https://github.com/Nasifuad"> 
-     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nasifuad&show_icons=true&locale=en&layout=demo&theme=gotham&hide_border=true" /> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanmukhtar1&show_icons=true&locale=en&layout=demo&theme=gotham&hide_border=true" /> 
    </a>  
  </p>
 
 [![Nasifuad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nasifuad&theme=github-compact&area=true)](https://github.com/Nasifuad/)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasifuad&show_icons=true&locale=en&layout=compact" alt="nasifuad" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nasifuad&show_icons=true&locale=en" alt="nasifuad" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nasifuad&" alt="nasifuad" /></p>
 <br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasifuad&show_icons=true&locale=en&layout=compact" alt="nasifuad" /></p>
+
 
 ## GitHub Contribution Snake 🐍
 
 <div align="center">
 <img  src="https://raw.githubusercontent.com/Nasifuad/Nasifuad/output/github-contribution-grid-snake.svg" alt="contribution graph" />
+</div>
