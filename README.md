@@ -11,9 +11,9 @@
 ![GitHub Banner](https://miro.medium.com/v2/resize:fit:3600/format:webp/0*n-2bW82Z6m6U2bij.jpeg)
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<p align="center">
-  <a text-align="center" href="https://github.com/Nasifuad"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Self-taught+Developer;Microsoft+Student+Ambassador;Always+learning+%26+growing;Open-source+enthusiast"></a>
-</p>
+
+  <a text-align="center" href="https://github.com/Nasifuad"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Self-taught+Developer;Passionate+learner;Always+learning+%26+growing;Open-source+enthusiast"></a>
+
 
 
 <!-- Intro  -->
