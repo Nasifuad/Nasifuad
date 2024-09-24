@@ -142,36 +142,14 @@
  </p>
 
 [![Nasifuad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nasifuad&theme=github-compact&area=true)](https://github.com/Nasifuad/)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasifuad&show_icons=true&locale=en&layout=compact" alt="nasifuad" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nasifuad&show_icons=true&locale=en" alt="nasifuad" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nasifuad&" alt="nasifuad" /></p>
 <br>
 
 ## GitHub Contribution Snake 🐍
 
 <div align="center">
 <img  src="https://raw.githubusercontent.com/Nasifuad/Nasifuad/output/github-contribution-grid-snake.svg" alt="contribution graph" />
-</div>
-
-
-<div align="center">
-    <!-- Container for the images -->
-    <table>
-        <tr>
-            <td>
-                <!-- leetcode card -->
-                <img src="https://leetcard.jacoblin.cool/ZeeshanMukhtar1?ext=heatmap" width="250" height="150" />
-            </td>
-            <td>
-                <!-- Daily dev card  -->
-                <a href="https://app.daily.dev/zeeshanmukhtar1">
-                    <img src="https://api.daily.dev/devcards/v2/jATHDDVMBgxeY9dKUGB4v.png?type=wide&r=d6a" width="250" height="150" alt="Zeeshan Mukhtar's Dev Card"/>
-                </a>
-            </td>
-        </tr>
-    </table>
-</div>
-
-<p align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy">
- 
- </a>
-</p>
