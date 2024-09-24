@@ -1,6 +1,6 @@
 <h2 align="center">
   <img src="https://media.tenor.com/ftqs42Yna-oAAAAi/mochi-mochi-hello-white-mochi-mochi.gif" alt="" width="7%" style="vertical-align: middle;" />
-  Glad you're here—let's build something amazing together!
+  I'm glad you're here—let's build something amazing together!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" style="vertical-align: middle;" />
 </h2>
 
@@ -8,53 +8,39 @@
 
 <!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=zeeshanMukhtar1&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/ZeeshanMukhtar1/github-widgetbox) -->
 
-![GitHub Banner](./assets//banner.png)
+![GitHub Banner](https://miro.medium.com/v2/resize:fit:3600/format:webp/0*n-2bW82Z6m6U2bij.jpeg)
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <p align="center">
-  <a href="https://github.com/zeeshanMukhtar1"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Self-taught+Developer;Microsoft+Student+Ambassador;Always+learning+%26+growing;Open-source+enthusiast"></a>
+  <a href="https://github.com/Nasifuad"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Self-taught+Developer;Microsoft+Student+Ambassador;Always+learning+%26+growing;Open-source+enthusiast"></a>
 </p>
 
 <a href="https://user-badge.committers.top/pakistan/ZeeshanMukhtar1">
-  <img align="right" src="https://user-badge.committers.top/pakistan/ZeeshanMukhtar1.svg" alt="Profile visitor" />
+  <img align="right" src="https://user-badge.committers" alt="Profile visitor" />
 </a>
 
 <p align="left">
-  <img src="https://visitcount.itsvg.in/api?id=ZeeshanMukhtar1&label=Profile%20Visits&pretty=true" alt="Profile Views">
+  <img src="https://visitcount.itsvg.inProfile%20Visits&pretty=true" alt="Profile Views">
 </p>
 
 <!-- Intro  -->
 <h3 align="center">
   <samp>&gt; Hey There!, I am
-    <b><a target="_blank" href="https://www.codewithzeeshan.me/">Zeeshan Mukhtar</a></b>
+    <b><a target="_blank" >Nasif Fuad</a></b>
   </samp>
 </h3>
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Zeeshan+Mukhtar">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=Nasifuad">「 Google Me 」</a>
     <br>
-    「 I am a full-stack web application developer from <b>Pakistan 🇵🇰</b> 」
+    「 I am a full-stack web application developer from Bangladesh 」
     <br>
     <br>
   </samp>
 </p>
 
-<p align="center">
- <a href="https://www.codewithzeeshan.me/" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Zeeshan Mukhtar" />
- </a>
- <a href="https://www.linkedin.com/in/zeeshanmukhtar1/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Zeeshan Mukhtar"/>
- </a>
- <a href="https://www.instagram.com/zeshanmukhtar01/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Zeeshan Mukhtar" />
- </a> 
- <a href="https://www.facebook.com/profile.php?id=100070572332885" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Zeeshan Mukhtar" />
-  </a> 
-</p>
-<br />
+
 
 # About me
 
@@ -63,8 +49,8 @@
   
  ✌️ &emsp; Enjoy programming and sharing knowledge<br/><br/>
  ❤️ &emsp; Love writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: Zeeshanwebdev7@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/ZeeshanMukhtar1/ZeeshanMukhtar1/issues)
+ 📧 &emsp; Reach me anytime: nasifuad007@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/Nasifuad/Nasifuad/issues)
 </p>
 
 <br/>
@@ -138,7 +124,7 @@
   </ul>
   <p><strong>CodeLab IT Solutions - Frontend Developer</strong></p>
   <ul>
-    <li>✔️ Designed and developed City's Election Management System interfaces for web applications.</li>
+    <li>✔️ Designed and developed the City's Election Management System interfaces for web applications.</li>
     <li>✔️ Improved page load times by 30% through code optimization.</li>
     <li>✔️ Worked closely with the backend team to integrate APIs efficiently.</li>
   </ul>
