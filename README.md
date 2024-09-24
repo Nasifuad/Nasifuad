@@ -15,13 +15,6 @@
   <a href="https://github.com/Nasifuad"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Self-taught+Developer;Microsoft+Student+Ambassador;Always+learning+%26+growing;Open-source+enthusiast"></a>
 </p>
 
-<a href="https://user-badge.committers.top/pakistan/ZeeshanMukhtar1">
-  <img align="right" src="https://user-badge.committers" alt="Profile visitor" />
-</a>
-
-<p align="left">
-  <img src="https://visitcount.itsvg.inProfile%20Visits&pretty=true" alt="Profile Views">
-</p>
 
 <!-- Intro  -->
 <h3 align="center">
@@ -32,9 +25,9 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Nasifuad">「 Google Me 」</a>
+    <a href="https://www.linkedin.com/in/nasif-fuad1/">「Linkedin 」</a>
     <br>
-    「 I am a full-stack web application developer from Bangladesh 」
+    「 I am a passionate Full Stack Developer 」
     <br>
     <br>
   </samp>
@@ -118,7 +111,7 @@
     </summary>
   <p><strong>Artifusion - Full Stack Developer</strong></p>
   <ul>
-    <li>✔️ Built the company’s MVP using Next.js and MongoDB.</li>
+    <li>✔️ Under Construction of Pokemon Challenge.</li>
     <li>✔️ Collaborated with a team of designers to implement user-friendly interfaces.</li>
     <li>✔️ Enhanced product performance, leading to a 25% increase in user engagement.</li>
   </ul>
@@ -130,73 +123,34 @@
   </ul>
 </details>
 
-## 🎯 Recent Achievements
-
-<details>
-    <summary>
-     📜 Click to view my recent achievements
-    </summary
-- 🚀 **Hacktoberfest Contributor:** Hacktoberfest 2k23 Open Source Contributor. [Verify here](https://www.holopin.io/@zeeshanmukhtar1#)
-
-- 💎 **Google Cloud Seekho Challenge:** Proud winner with the Diamond Badge for significant contributions and achievements in the challenge. [Verify here](https://www.cloudskillsboost.google/public_profiles/6657fd9e-28d1-4374-bad2-f24ba18a66ea)
-
-- 🌐 **Microsoft Ambassador:** Representing Microsoft as an ambassador by organizing and leading challenges, workshops, and informative sessions within the community. [MLSA Profile](https://mvp.microsoft.com/en-US/studentambassadors/profile/55818c21-3733-4588-a953-2090b63aaec6)
-
-- 🌳 **Environmental Advocate:** Contributed to a greener planet by planting a tree through Tree Nation. [Forest of Zeeshan](https://tree-nation.com/trees/view/5281810)
-
-- ⭐ **Skill Development:** Improved my JavaScript skills with a 4-star rating on HackerRank. [HackerRank Profile](https://www.hackerrank.com/ZeeshanMukhtar1)
-
-- 🛡️ **Holopin Badges:** Check out my Holopin badges showcasing my contributions and achievements. [Holopin Profile](https://holopin.io/@zeeshanmukhtar1)
-
-- 🖌️ **CSS Expertise:** Earned certification in CSS, further enhancing my front-end development skills. [View Certificate](https://www.hackerrank.com/certificates/c8e861c702e6)
-
-- 🚀 **JavaScript Wizard:** Elevated my mastery of the JavaScript programming language. [View Certificate](https://coursera.org/share/b4d7eb15d70c1b00cd19d00b952716dc)
-
-- 🎓 **Certified in Advanced React:** Completed the Advanced React course, enhancing my web development skills. [See Certificate](https://coursera.org/share/918026f1975c0c52165534d622e891e9)
-
-- 🎓 **Bachelor's in Information Technology:** Graduated from Bahauddin Zakariya University with a degree in IT, providing a strong foundation for my career in technology.
-</details>
-
-## My Latest Blog Posts
-
-<details>
-  <summary>🔗 Click to view my latest blog posts</summary>
-
-- 🔗 [Mastering MongoDB Data Modeling](https://zeeshanmukhtar1.hashnode.dev/mastering-mongodb-data-modeling?source=more_articles_bottom_blogs)
-- 🔗 [Redux Toolkit Guide](https://zeeshanmukhtar1.hashnode.dev/redux-toolkit-guide)
-- 🔗 [Your First Open-Source Contribution](https://zeeshanmukhtar1.hashnode.dev/your-first-open-source-contribution)
-- 🔗 [The Secrets to Open Source Success](https://zeeshanmukhtar1.hashnode.dev/the-secrets-to-open-source-success)
-
-</details>
 
 <br>
 
 ## Coding Activity: 👨‍💻
 
   <p align="center">
-      <a href="https://github.com/zeeshanmukhtar1">
+      <a href="https://github.com/Nasifuad">
           <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zeeshanmukhtar1&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true"/>
           <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zeeshanmukhtar1&langs_count=12&layout=compact&langs_count=8&theme=gotham&include_all_commits=true&count_private=true&hide_border=true" />
       </a>
   </p>
 
  <p align="center">
-   <a href="https://github.com/zeeshanmukhtar1"> 
+   <a href="https://github.com/Nasifuad"> 
      <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanmukhtar1&show_icons=true&locale=en&layout=demo&theme=gotham&hide_border=true" /> 
    </a>  
  </p>
 
-[![ZeeshanMukhtar1's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zeeshanmukhtar1&theme=github-compact&area=true)](https://github.com/zeeshanmukhtar1/)
+[![Nasifuad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nasifuad&theme=github-compact&area=true)](https://github.com/Nasifuad/)
 
 <br>
 
 ## GitHub Contribution Snake 🐍
 
 <div align="center">
-<img  src="https://raw.githubusercontent.com/ZeeshanMukhtar1/ZeeshanMukhtar1/output/github-contribution-grid-snake.svg" alt="contribution graph" />
+<img  src="https://raw.githubusercontent.com/Nasifuad/Nasifuad/output/github-contribution-grid-snake.svg" alt="contribution graph" />
 </div>
 
-[![An image of @zeeshanmukhtar1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zeeshanmukhtar1)](https://holopin.io/@zeeshanmukhtar1)
 
 <div align="center">
     <!-- Container for the images -->
@@ -218,6 +172,6 @@
 
 <p align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=zeeshanmukhtar1&theme=onedark&row=1&no-frame=true&no-bg=true" alt="Zeeshan Mukhtar" />
+ 
  </a>
 </p>
