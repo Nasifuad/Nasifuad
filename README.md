@@ -1,7 +1,7 @@
 <h2 align="center">
   <img src="https://media.tenor.com/ftqs42Yna-oAAAAi/mochi-mochi-hello-white-mochi-mochi.gif" alt="Mochi Mochi Hello" width="7%" style="vertical-align: middle;" />
   I'm glad you're here—let's build something amazing together!
-  <img src="https://media.giphy.com/media/JIXyx8iI8v6MO/giphy.gif" alt="Cute Cat" width="100" />
+  <img src="https://media1.tenor.com/m/QEBosU0qSGUAAAAC/cool-cat-thug-life-glasses.gif" alt="Cute Cat" width="100" />
 </h2>
 
 ![Fading Line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
