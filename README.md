@@ -20,7 +20,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.linkedin.com/in/nasif-fuad1/">「Linkedin 」</a>
+    <a href="https://nasifuad.github.io/NasifuadResume/">「Nasif's Resume 」</a>
     <br>
     「 I am a passionate Full Stack Developer 」
     <br>
