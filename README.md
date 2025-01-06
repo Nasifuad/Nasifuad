@@ -1,72 +1,47 @@
-<h2 align="center">
+# 👨‍💻 Nasif Fuad - Full Stack Developer
+
+<p align="center">
   <img src="https://media.tenor.com/ftqs42Yna-oAAAAi/mochi-mochi-hello-white-mochi-mochi.gif" alt="Mochi Mochi Hello" width="7%" style="vertical-align: middle;" />
   <span style="color:#00FF00;">Welcome! Let's build something amazing together!</span>
   <img src="https://media.tenor.com/4DiFwww6548AAAAi/kitty.gif" alt="Cute Cat" width="100" />
-</h2>
-
-![Fading Line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-<p align="center">
-  <a href="https://github.com/Nasifuad">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Self-taught+Programmer;Lifelong+Learner;Open-source+Enthusiast;Always+Exploring+New+Horizons" alt="Typing SVG">
-  </a>
 </p>
-
-<h3 align="center">
-  <samp>&gt; Hey There! I am
-    <b><a target="_blank" href="https://github.com/Nasifuad" style="color:#FFD700;">Nasif Fuad</a></b>
-  </samp>
-</h3>
-
-<p align="center"> 
-  <samp>
-    <a href="https://nasifuad.github.io/NasifuadResume/" style="color:#00FF7F;">「 Nasif's Resume 」</a>
-    <br>
-    <span style="color:#FF69B4;">「 A passionate Full Stack Developer 」</span>
-    <br><br>
-  </samp>
-</p>
-
-# 🚀 About Me
-
-<p>
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" alt="Coding gif" />
-  ✌️ &emsp; Enjoy programming and sharing knowledge<br/><br/>
-  ❤️ &emsp; Love writing code and learning new technologies<br/><br/>
-  📧 &emsp; Reach me anytime: <span style="color:#1E90FF;">nasifuad007@gmail.com</span><br/><br/>
-  💬 &emsp; Ask me about anything: <a href="https://github.com/Nasifuad/Nasifuad/issues" style="color:#FF4500;">[Here]</a>
-</p>
-
-# 🛠️ Tech Stack
-
-### 🌐 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🚀 DevOps and Deployment
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🛠️ Tools and Utilities
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ---
 
-# 📊 Coding Activity: 👨‍💻
+### 🌟 About Me
+
+Hi! I'm **Nasif Fuad**, a passionate **Full Stack Developer** and **Lifelong Learner**. I'm excited about exploring new technologies, writing clean code, and contributing to the open-source community. My goal is to keep growing and help others learn along the way.
+
+- 🔥 Self-taught Programmer
+- 📚 Always exploring new horizons
+- 💬 Open to discussions, questions, and collaborations
+
+Reach out to me: [**nasifuad007@gmail.com**](mailto:nasifuad007@gmail.com) or ask me anything [**here**](https://github.com/Nasifuad/Nasifuad/issues)!
+
+---
+
+### 🚀 Technologies I Use
+
+#### 💻 Frontend Development
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### ⚙️ Backend Development
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### 🌍 DevOps & Deployment
+- ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+- ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/Nasifuad">
@@ -76,7 +51,28 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Nasifuad"> 
-    <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nasifuad&show_icons=true&locale=en&layout=demo&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-  </a>  
+  <a href="https://github.com/Nasifuad">
+    <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nasifuad&show_icons=true&locale=en&layout=demo&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
+  </a>
 </p>
+
+---
+
+### 🧑‍💻 Get In Touch
+
+I'm always open to new collaborations and projects! Feel free to reach out if you want to work together or just have a chat about technology.
+
+- 💼 Check out my [**Resume**](https://nasifuad.github.io/NasifuadResume/)
+- 🧑‍🏫 Join me on this journey of learning and coding!
+
+---
+
+<p align="center">
+  <img width="300" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" alt="Coding gif" />
+</p>
+
+---
+
+<h4 align="center">
+  <i>“Building the future, one line of code at a time.”</i>
+</h4>
