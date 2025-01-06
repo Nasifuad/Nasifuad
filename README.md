@@ -46,3 +46,40 @@
 * ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 * ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 * ![Next.js](https://img.shields.io/badge/Next
+* .js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+* ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend**
+
+* ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+* ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+* ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**DevOps & Deployment**
+
+* ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+* ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+* ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Tools & Utilities**
+
+* ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+* ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+* ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+<hr color="#FFD700" />
+
+## My GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/Nasifuad">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nasifuad&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasifuad&langs_count=8&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Nasifuad">
+    <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nasifuad&show_icons=true&locale=en&layout=demo&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  </a>
+</p>
