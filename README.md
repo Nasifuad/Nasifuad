@@ -84,6 +84,9 @@
     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nasifuad&show_icons=true&locale=en&layout=demo&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
   </a>  
 </p>
+## 🐍 My GitHub Contribution Snake
+
+![Snake Animation](https://github.com/Nasifuad/Nasifuad/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
