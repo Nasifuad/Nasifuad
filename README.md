@@ -188,7 +188,11 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <h3 align="center">Git Stats</h3>
 
 <div align="center">
- 
+ <p align="center">
+  <a href="https://github.com/Nasifuad">
+    <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nasifuad&show_icons=true&locale=en&layout=demo&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  </a>
+</p>
   <img src="https://streak-stats.demolab.com/?user=Nasifuad&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   <br>
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nasifuad&custom_title=Nasif's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
