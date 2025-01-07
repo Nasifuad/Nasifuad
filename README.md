@@ -1,9 +1,100 @@
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+<!-- <h2 align="center">
+  <img src="https://media.tenor.com/ftqs42Yna-oAAAAi/mochi-mochi-hello-white-mochi-mochi.gif" alt="Mochi Mochi Hello" width="7%" style="vertical-align: middle;" />
+  <span style="color:#00FF00;">Welcome! Let's build something amazing together!</span>
+  <img src="https://media.tenor.com/4DiFwww6548AAAAi/kitty.gif" alt="Cute Cat" width="7%" />
+</h2>
+
+![Fading Line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+<p align="center">
+  <a href="https://github.com/Nasifuad">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Self-taught+Programmer;Lifelong+Learner;Open-source+Enthusiast;Always+Exploring+New+Horizons" alt="Typing SVG">
+  </a>
+</p>
+
+<h3 align="center">
+  <samp>&gt; Hey There! I am
+    <b><a target="_blank" href="https://github.com/Nasifuad" style="color:#FFD700;">Nasif Fuad</a></b>
+  </samp>
+</h3>
+
+<p align="center">
+  <samp>
+    <a href="https://nasifuad.github.io/NasifuadResume/" style="color:#00FF7F;">「 Nasif's Resume 」</a>
+    <br>
+    <span style="color:#FF69B4;">「 A passionate Full Stack Developer 」</span>
+    <br><br>
+  </samp>
+</p>
+
+---
+
+# 🚀 About Me
+
+<p>
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" alt="Coding gif" />
+  ✌️ &emsp; Enjoy programming and sharing knowledge<br/><br/>
+  ❤️ &emsp; Love writing code and learning new technologies<br/><br/>
+  📧 &emsp; Reach me anytime: <span style="color:#1E90FF;">nasifuad007@gmail.com</span><br/><br/>
+  💬 &emsp; Ask me about anything: <a href="https://github.com/Nasifuad/Nasifuad/issues" style="color:#FF4500;">[Here]</a>
+</p>
+
+---
+
+# 🛠️ Tech Stack
+
+### 🌐 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🚀 DevOps and Deployment
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🛠️ Tools and Utilities
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+---
+
+# 📊 Coding Activity: 👨‍💻
+
+<p align="center">
+  <a href="https://github.com/Nasifuad">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nasifuad&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasifuad&langs_count=8&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Nasifuad">
+    <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nasifuad&show_icons=true&locale=en&layout=demo&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  </a>
+</p>
+## 🐍 My GitHub Contribution Snake
+
+![Snake Animation](https://github.com/Nasifuad/Nasifuad/blob/output/github-contribution-grid-snake.svg)
+
+---
+ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 <div align="center">
   <a href="https://bento.me/kenangain">
     <img width="100%" src="https://cardivo.vercel.app/api?name=Kenan%20Gain&description=Versatile%20Computer%20Engineer%20and%20Full-Stack%20Developer%20specializing%20in%20Cloud%20Computing,%20AI/ML,%20and%20high-quality%20streaming%20technologies.%20Committed%20to%20leveraging%20advanced%20AI%20solutions%20to%20boost%20productivity%20and%20foster%20creative%20problem-solving.%20Passionate%20about%20pushing%20the%20boundaries%20of%20modern%20technology%20to%20deliver%20exceptional%20results.&image=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Dview%26id%3D1hyV7-KzqCpHLPw5_nzvl6ybEjiMO9OuN&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&youtube=knightgamer87&instagram=knightgamer87&linkedin=KenanGain&github=KenanGain&twitter=KenanGain" alt="Kenan Gain's Card" />
-
 
   </a>
 </div>
@@ -84,17 +175,11 @@
   </table>
 </div>
 
-
-
-
-
 <br>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KenanGain&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
-
 
 <h2 align="center">🚀 About Me</h2>
 
@@ -103,7 +188,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <h3 align="center">Git Stats</h3>
 
 <div align="center">
-
+ 
   <img src="https://streak-stats.demolab.com/?user=KenanGain&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   <br>
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KenanGain&custom_title=Kenan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
@@ -130,6 +215,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KenanGain&theme=highcontrast&hide_border=true">
 
 ### Top Repositories
+
 <div align="center">
   <table>
     <tr>
@@ -171,30 +257,27 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   </table>
 </div>
 
-
-
 ### GitHub Contribution Chart
+
 <a href="https://github.com/KenanGain">
     <img src="https://ghchart.rshah.org/KenanGain" alt="KenanGain's GitHub Contribution Chart">
 </a>
-
 
 <details>
   <summary style="font-size: 1.17em; font-weight: bold;">
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
   </summary>
-
+  
   <img src="https://myreadme.vercel.app/api/embed/KenanGain?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="KenanGain's GitHub Stats">
       <img src="https://github-readme-bento.vercel.app/stats/KenanGain?theme=dark" alt="KenanGain's GitHub Stats">
       <img src="https://stats.dooboo.io/api/github-stats-advanced?login=KenanGain" alt="Advanced GitHub Stats for KenanGain" width="400">
 
-
 </details>
-
 
 <br>
 
 ### KenanGain/README.md activity
+
 <img width="100%" src="https://repobeats.axiom.co/api/embed/48c98af9cae40b4ae2cf354a0f544a52eb743a9f.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
 
 [![Forkers repo roster for @KenanGain/KenanGain](https://reporoster.com/forks/dark/KenanGain/KenanGain)](https://github.com/KenanGain/KenanGain/network/members)
@@ -211,7 +294,6 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 </details>
 
-
 <br>
 <details>
   <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
@@ -219,8 +301,6 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     <img src="https://github-profile-trophy.vercel.app/?username=KenanGain&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy">
   <img src="https://stats.dooboo.io/api/github-trophies?login=KenanGain" alt="GitHub Trophies for KenanGain">
 </details>
-
-
 
 </div>
 
@@ -295,12 +375,12 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   </table>
 </details>
 
-
-
 <br>
 
 ## Document Whispers: AI Answers, Knowledge Revealed
+
 <a href="https://documentwhispers.com">View Demo</a>
+
 <table>
   <tr>
     <td>
@@ -374,7 +454,6 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <p>Enter the <strong>Ultimate AI Search Engine</strong>—because good enough is simply unacceptable. This ambitious project aims to put SearchGPT to shame, pulling in multiple LLMs for a layered, context-savvy search experience that adjusts to your wildest curiosities.</p>
 
 <p>Built to do more than just “find stuff,” the Ultimate AI Search Engine promises to dive headfirst into the internet's abyss and return with gems of wisdom. From web, document, and knowledge retrieval, it’s your go-to for precise answers and the kind of search results that will leave you wondering how you ever managed without it.</p>
-
 
 <br>
 
@@ -478,10 +557,9 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
       </td>
     </tr>
   </table>
-
+  
 </div>
 <div align="center">
-
 
 <div align="center">
 
@@ -498,7 +576,6 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <table>
   <tr>
     <!-- Discord Widget Column -->
-
     <td align="center" style="border: none;">
       <a href="https://discord.gg/YdDyV6QqEN">
         <img src="https://invidget.switchblade.xyz/YdDyV6QqEN" alt="Discord Widget">
@@ -514,7 +591,6 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
         <img src="https://lanyard.cnrad.dev/api/424279823817375746" alt="Discord Presence">
       </a>
     </td>
-
   </tr>
 </table>
 
