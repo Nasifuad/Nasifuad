@@ -27,19 +27,6 @@
   </samp>
 </p>
 
----
-
-# 🚀 About Me
-
-<p>
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" alt="Coding gif" />
-  ✌️ &emsp; Enjoy programming and sharing knowledge<br/><br/>
-  ❤️ &emsp; Love writing code and learning new technologies<br/><br/>
-  📧 &emsp; Reach me anytime: <span style="color:#1E90FF;">nasifuad007@gmail.com</span><br/><br/>
-  💬 &emsp; Ask me about anything: <a href="https://github.com/Nasifuad/Nasifuad/issues" style="color:#FF4500;">[Here]</a>
-</p>
-
----
 
 # 🛠️ Tech Stack
 
