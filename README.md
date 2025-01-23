@@ -68,9 +68,10 @@
 
 <p align="center">
    <a href="https://github.com/Nasifuad">
-      <img src="https://github-readme-stats.vercel.app/api?username=Nasifuad&show_icons=true&theme=radical" alt="GitHub Stats" />
+      <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nasifuad&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
    </a>
 </p>
+
 
 
 
