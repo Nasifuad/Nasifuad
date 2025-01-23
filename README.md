@@ -67,8 +67,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Nasifuad"> 
-    <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nasifuad&show_icons=true&locale=en&layout=demo&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-  </a>  
+   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nasifuad&theme=radical&hide_border=true">
+   </a>
 </p>
+
 
