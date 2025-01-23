@@ -67,9 +67,10 @@
 </p>
 
 <p align="center">
-   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nasifuad&theme=radical&hide_border=true">
+   <a href="https://github.com/Nasifuad">
+      <img src="https://github-readme-stats.vercel.app/api?username=Nasifuad&show_icons=true&theme=radical" alt="GitHub Stats" />
    </a>
 </p>
+
 
 
